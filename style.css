@@ -39,12 +39,12 @@ header{
 }
 
 .cabeçalho-link a{
-   color: rgb(22, 11, 227);
+   color: rgb(15, 12, 55);
    font-size: 26px;
 }
 
 .cabeçalho-link a:hover{
-   color:rgb(87, 5, 239);
+   color:rgb(43, 21, 84);
    transition: 0.3s all;
 }
 
@@ -52,7 +52,7 @@ header{
    height: 40px;
    width: 40px;
    background: transparent;
-   border: #2ecc71 solid 6px;
+   border: #07863c solid 6px;
    color: red;
    border-radius: 50%;
    display: inline-flex;
